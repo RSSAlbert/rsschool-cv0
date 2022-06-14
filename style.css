@@ -5,7 +5,7 @@
   @font-face {
 	font-family: 'Pixel'; 
 	src: local('pixel'),
-		url(/assets/pixel.ttf); 
+		url(./assets/pixel.ttf); 
 }
 
 #h1w {
@@ -253,7 +253,7 @@ ul {
 
 #content-2 {
     background-color: #fff;
-    background: url(/assets/better.png);
+    background: url(./assets/better.png);
 }   
    
 
